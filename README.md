@@ -1,0 +1,2 @@
+# EssaouiraWebSite
+This document considers the fruit of my work accomplished within the framework of Project of End of studies at the Higher School of Technology Essaouira. The objective of this project is the design and construction of a site for the enhancement of heritage in the city of Essaouira in Morocco. Having a well-structured, easy-to-use website that presents the maximum information in a way that different groups of visitors can access information that concerns them quickly is without confusion is the goal of our project.
